@@ -1,3 +1,4 @@
+import bwipjs from '@bwip-js/browser';
 import './style.css'
 import javascriptLogo from './javascript.svg'
 import viteLogo from '/vite.svg'
@@ -22,3 +23,5 @@ document.querySelector('#app').innerHTML = `
 `
 
 setupCounter(document.querySelector('#counter'))
+
+console.log(bwipjs);

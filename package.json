@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@bwip-js/browser": "^4.5.1",
     "vite": "^6.0.5"
   }
 }
